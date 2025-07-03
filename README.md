@@ -56,12 +56,13 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧩 LeetCode Progress
+<!-- ## 🧩 LeetCode Progress
 
-<!-- Replace YOUR_LEETCODE_USERNAME with your username -->
-<p align="center">
+Replace YOUR_LEETCODE_USERNAME with your username -->
+<!-- <p align="center">
   <img src="https://leetcard.jacoblin.cool/vizordev?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
 </p>
+-->
 
 ---
 
@@ -85,4 +86,4 @@ Here are some ideas to get you started:
 ---
 
 
-⭐️ From [Bishwa Vijay Kumar](https://github.com/bishwakumar)
+⭐️ From [Bishwa Kumar](https://github.com/bishwakumar)
